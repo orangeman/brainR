@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BrainR</string>
+    <string name="menu_insert">Add</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_revert">Revert</string>
+    <string name="menu_discard">Discard</string>
+
+    <string name="title_create">Create</string>
+    <string name="title_edit">Edit</string>
+	
+		<string name="button_ok">OK</string>  
+	
+		<string name="error_title">Error</string>
+		<string name="error_message">Error loading note</string>
+</resources>
